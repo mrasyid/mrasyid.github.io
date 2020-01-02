@@ -1,4 +1,4 @@
-### M. Rasyid Aqmar (Dr. Eng.)
+# M. Rasyid Aqmar (Dr. Eng.)
 ## Research Scientist @ Rakuten Institute of Technology
 
-# Computer Vision and Machine Learning
+### Computer Vision and Machine Learning
