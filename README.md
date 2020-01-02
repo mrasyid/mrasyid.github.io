@@ -1,2 +1,2 @@
-#  Dr. Eng. M. Rasyid Aqmar
+# M. Rasyid Aqmar (Dr. Eng.)
 Research Scientist @ Rakuten Institute of Technology
